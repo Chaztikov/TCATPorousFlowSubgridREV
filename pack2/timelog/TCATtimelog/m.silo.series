@@ -1,0 +1,8 @@
+{
+  "file-series-version" : "1.0",
+  "files" : [
+ { "name" : "./vis200/summary.silo", "time" :  200  },
+ { "name" : "./vis400/summary.silo", "time" :  400  },
+ { "name" : "./vis600/summary.silo", "time" :  600  }
+   ]
+}
